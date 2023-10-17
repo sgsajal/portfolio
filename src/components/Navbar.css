@@ -1,0 +1,35 @@
+/* Navbar.css */
+.navbar {
+  background: rgba(30, 30, 30, 0.9); /* Semi-transparent dark background */
+  color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  
+  }
+  
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 1.5rem;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  .nav-links a:hover {
+    border-bottom: 2px solid #fff;
+  }
+  
