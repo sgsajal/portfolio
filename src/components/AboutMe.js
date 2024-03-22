@@ -12,7 +12,7 @@ const AboutMe = () => {
         <div className="about-me-content">
           <div className="about-me-text">
             <p>
-              Hello! I'm Saksham, a passionate Web Developer with a strong
+              Hello! I'm Sajal, a passionate Web Developer with a strong
               interest in frontend Development. I have no experience in the
               field and a deep love for react.
             </p>

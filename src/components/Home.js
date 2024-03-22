@@ -8,10 +8,10 @@ const Home = () => {
     <div className="home">
       <div className="home-content">
         <div className="profile-image">
-          <img src={"something"} alt="Saksham" />
+          <img src={"something"} alt="Sajal" />
         </div>
         <div className="intro">
-          <h1>Hello, I'm Saksham Tiwari</h1>
+          <h1>Hello, I'm Sajal Garg</h1>
           <p>Web Developer | Designer</p>
           <p>
             Welcome to my portfolio. I create web applications with a passion for clean, elegant, and user-friendly design.
